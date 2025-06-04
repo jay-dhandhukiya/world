@@ -15,7 +15,7 @@ function HeroSection() {
         </div>
         <div className="w-full h-full md:pt-15">
           <img
-            src="./src/assets/world.png"
+            src="./world.png"
             alt="world is beauty"
             className="h-[250px] w-full"
           />
