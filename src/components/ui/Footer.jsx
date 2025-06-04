@@ -38,7 +38,7 @@ export const Footer = () => {
               <ul className="flex gap-4 text-sm sm:text-md pt-4 ">
                 <li className="hover:text-blue-600"><NavLink to="/">Home</NavLink></li>
                 <li className="hover:text-blue-600"><NavLink to="https://www.instagram.com/JAY_DHANDHUKIYA_14/" target="_blank">Social</NavLink></li>
-                <li className="hover:text-blue-600"><NavLink to="" target="_blank">Source Code</NavLink></li>
+                <li className="hover:text-blue-600"><NavLink to="https://github.com/jay-dhandhukiya/world" target="_blank">Source Code</NavLink></li>
                 <li className="hover:text-blue-600"><NavLink to="/contact">Contact</NavLink></li>
               </ul>
             </div>
