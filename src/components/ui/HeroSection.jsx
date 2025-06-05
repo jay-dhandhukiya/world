@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaLongArrowAltRight } from 'react-icons/fa'
+import { NavLink } from "react-router-dom";
 function HeroSection() {
   return (
       <div className="h-full gap-4 py-25 text-white bg-black w-full flex flex-col justify-center items-center sm:flex-col px-[10%]  md:flex-row xl:px-[15%]">
